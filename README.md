@@ -58,22 +58,6 @@ The scraper saves data in two formats:
 1. `foodpanda_data.json`: Complete restaurant data in JSON format
 2. `foodpanda_data.csv`: Flattened data in CSV format, including menu items
 
-## Project Structure
-
-```
-foodpanda_scraper/
-├── __init__.py
-├── __main__.py
-├── models.py
-├── scrapers/
-│   ├── __init__.py
-│   ├── base_scraper.py
-│   └── foodpanda_scraper.py
-└── utils/
-    ├── __init__.py
-    └── helpers.py
-```
-
 ## Contributing
 
 1. Fork the repository
@@ -84,4 +68,4 @@ foodpanda_scraper/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is free to use for any commerical or non-commercial purposees, but attributes should be given
