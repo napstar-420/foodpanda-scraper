@@ -1,0 +1,25 @@
+# Application dependencies
+selenium>=4.15.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+webdriver-manager>=4.0.0
+lxml>=4.9.0
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Test dependencies
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Note: The following are part of Python's standard library and don't need to be installed:
+# - time
+# - json
+# - random
+# - argparse
+# - typing
+# - logging
+# - re
+# - os
+# - urllib
+# - unittest 

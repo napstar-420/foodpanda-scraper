@@ -1,0 +1,5 @@
+venv/
+foodpanda_data.csv
+foodpanda_data.json
+foodpanda_scraper.log
+__pycache__/
